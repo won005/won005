@@ -1,11 +1,29 @@
-## Hi there 👋
+
+## ☁️ Certifications
 
 <div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+  
+  ### AWS Solutions Architect Associate
+  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS SAA Badge" width="150"/>
+  
+  *Certified AWS Solutions Architect Associate*
+  
 </div>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/220x220/images/be83ac73-937b-4491-8214-3da0f41a5857/azure-fundamentals-600x600.png)](https://www.credly.com/badges/64fd70c8-bca0-4650-99c9-922a1ea4e577/public_url)
+### 💻 Languages
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+
+
+### 🗄️ Databases
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+
 
 </div>
+
