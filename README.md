@@ -1,19 +1,13 @@
 ## 📜 Certifications
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS SAA Badge" width="120"/><br/>
-        <b>AWS Solutions Architect<br/>Associate</b>
-      </td>
-      <td align="center" width="200">
-        <img src="https://img.shields.io/badge/SQLD-003B57?style=for-the-badge&logo=databricks&logoColor=white" height="120"/><br/>
-        <b>SQL Developer<br/>(SQLD)</b>
-      </td>
-    </tr>
-  </table>
+  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS SAA Badge" width="150"/>
 </div>
+
+| Certification | Date |
+|:---:|:---:|
+| AWS Solutions Architect Associate | 2024.08.26 |
+| SQLD (SQL Developer) | 2025.06.27 |
 
 ## 🛠️ Tech Stack
 
