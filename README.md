@@ -4,10 +4,15 @@
   <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS SAA Badge" width="150"/>
 </div>
 
+<div align="center">
+
 | Certification | Date |
 |:---:|:---:|
 | AWS Solutions Architect Associate | 2024.08.26 |
+| ISTQB CTFL (Certified Tester Foundation Level) | 2025.06.11 |
 | SQLD (SQL Developer) | 2025.06.27 |
+
+</div>
 
 ## 🛠️ Tech Stack
 
