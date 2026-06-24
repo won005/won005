@@ -9,8 +9,8 @@
 | Certification | Date |
 |:---:|:---:|
 | AWS Solutions Architect Associate | 2024.08.26 |
-| ISTQB CTFL (Certified Tester Foundation Level) | 2025.06.11 |
 | SQLD (SQL Developer) | 2025.06.27 |
+| ISTQB CTFL (Certified Tester Foundation Level) | 2026.06.11 |
 
 </div>
 
